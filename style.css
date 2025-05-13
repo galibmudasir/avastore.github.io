@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+.font-small{
+  font-size: 12px !important;
+}
+
+.white-img {
+  filter: brightness(0) invert(1);
+}
+.bg-colortheme {
+  background-color: #2C2C3A;
+}
+.card{
+  overflow: hidden !important;
+}
+.card-game{
+  min-height: 180px;
+}
+a {
+  text-decoration: none !important;
+}
