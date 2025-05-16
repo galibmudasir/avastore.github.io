@@ -23,7 +23,6 @@
 <body>
 
   <?php
-  echo "<h1>Hello world</h1>";
   require_once "includes.php";
   $uri = parse_url($_SERVER["REQUEST_URI"], PHP_URL_PATH);
   $uri = trim($uri, "/");
